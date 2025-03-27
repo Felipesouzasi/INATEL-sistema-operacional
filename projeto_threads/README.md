@@ -56,7 +56,7 @@ Senha encontrada: 1234 pela Thread 2
 - Criar uma interface gráfica para facilitar a interação do usuário.
 
 ## Autor
-Desenvolvido por [Seu Nome].
+Desenvolvido por Felipe Santos de Souza.
 
 ## Licença
 Este projeto é de código aberto sob a licença MIT. Sinta-se à vontade para modificá-lo e melhorá-lo!
